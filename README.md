@@ -10,8 +10,8 @@ class Attributes(SleepWalkerrrrrrrrr):
 	    return discord, telegram
 	
 	def life() -> tuple:
-		langs         = ['Russian', 'English']
-		age           = 20
+		langs = ['Russian', 'English']
+		age = 20
 		
 		return langs, age
 	
