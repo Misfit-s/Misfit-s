@@ -29,7 +29,7 @@ class Attributes(SleepWalkerrrrrrrrr):
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sleepwalkerrrrrrrrr&label=Profile%20views&color=21231f&style=flat" alt="sleepwalkerrrrrrrrr" /> </p>
 
-- 🔭 I’m currently working on **Telegram-GPT Bot**
+- 🔭 I’m currently working on **Telegram-GPT Bot, my own site, courses bot, finance bot**
 
 - 🌱 I’m currently learning **Python, pandas, SQL, JavaScript**
 
