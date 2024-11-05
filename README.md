@@ -2,7 +2,7 @@
 <h3 align="center">self-taught backend developer from Russia</h3>
 
 ```python
-class Attributes(SleepWalkerrrrrrrrr):
+class Attributes(Misfit-s):
 	def contact() -> tuple:
 	    discord  = "everlastinghate."
 	    telegram = "t.me/misfit_s"
